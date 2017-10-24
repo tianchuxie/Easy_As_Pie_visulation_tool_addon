@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EPgICK6ok6vIy5gwpQCccQ==
+SHA1-Digest: VKM00DA8LFI2lnebOpQb48jVQZs=
+
+Name: options.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 781qvcmbo2DJhe+/I/oKqQ==
+SHA1-Digest: u8G49qdWoeqE/l834KjO4PR0qkA=
+
+Name: options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: giooz08pi+FcKiZHtL+o9A==
+SHA1-Digest: 3LD8Y3AjF1uIxHX9B5IG01f21D8=
+
+Name: content_scripts/getDatabase.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zeeFj0glkQtUKMF2LC8ADg==
+SHA1-Digest: MUcZhmABl77nNvT3rCPn9wqdniI=
+
+Name: icons/pie.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Rk/9pAdNTtBUjot3BaV0Vg==
+SHA1-Digest: vzV0kfs6Nv57whEW1hxGm5UUQuo=
+
+Name: popup/d3.v3.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W8JFBosbcNTD6u95BFAj5A==
+SHA1-Digest: TLaLCmoR5tfPjzcSq2Wng/tJ6mw=
+
+Name: popup/index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8rSqpYlz5Dlzf0W9AC/Mgw==
+SHA1-Digest: tjUXcxRoVUp1yS9tsjKwgxf7Pyg=
+
+Name: popup/pie.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lyCwndYnuMFUajtLzEY+hg==
+SHA1-Digest: lRj3o5vfdj00xL8U36zgmwB0Ets=
+
